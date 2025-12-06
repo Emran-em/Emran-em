@@ -7,7 +7,7 @@
 <img src="https://i.ibb.co/5v0Vt2S/cyberpunk-banner-divider.gif" width="100%"/>
 
 <p align="center">
-  <strong>📍 Hyderabad, India • 📧 mdwaseem.cloudops@gmail.com • ☎️ +91-9652421900</strong>  
+  <strong>📍 Hyderabad, India • 📧 mdwaseem.cloudops@gmail.com </strong>  
   <small>GitHub / LinkedIn: (add your profile links)</small>
 </p>
 
