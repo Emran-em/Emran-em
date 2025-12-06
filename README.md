@@ -23,6 +23,11 @@
 <div align="center">
 <img src="https://i.ibb.co/MRbkJd1/Cloud-Architecture-MDWaseem-v1.png" width="900"/>
 </div>
+## 🧠 System Architecture — EKS + Jenkins + ArgoCD
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Emran-em/Emran-em/main/assets/architecture-eks-cicd.svg" width="900" />
+</div>
 
 
 ## 📊 GitHub Analytics
