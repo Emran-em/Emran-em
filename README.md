@@ -19,7 +19,7 @@
 ## 🧠 Solution Architecture Overview
 
 <div align="center">
-<img src="https://i.ibb.co/MRbkJd1/Cloud-Architecture-MDWaseem-v1.png" width="900"/>
+<img src="https://raw.githubusercontent.com/Emran-em/Emran-em/main/assets/architecture-k8s-aws.svg" width="900"/>
 </div>
 
 <br/>
