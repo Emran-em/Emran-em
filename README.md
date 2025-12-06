@@ -1,15 +1,16 @@
+---
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=3000&pause=800&color=00F3FF&center=true&vCenter=true&width=900&lines=MD+WASEEM;Senior+DevOps+Engineer;Cloud+%26+Platform+Architect;Kubernetes+%7C+Terraform+%7C+DevSecOps;Infrastructure+Automation+Specialist" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=3000&pause=800&color=00F3FF&center=true&vCenter=true&width=900&lines=MD+WASEEM;Senior+DevOps+Engineer;Cloud+%26+Platform+Architect;Kubernetes+%7C+Terraform+%7C+DevSecOps;Infrastructure+Automation+Specialist" alt="MD Waseem Title" />
 
-<img src="https://i.ibb.co/5v0Vt2S/cyberpunk-banner-divider.gif" width="100%"/>
+<img src="https://i.ibb.co/5v0Vt2S/cyberpunk-banner-divider.gif" width="100%" alt="Cyberpunk Banner Divider" />
 
 # 🚀 Hey there! I'm **MD Waseem**
 ### *Senior DevOps Engineer & Cloud Architect* ⚡
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=700&lines=🔥+Transforming+Infrastructure+Dreams+into+Reality;⚡+Building+Bulletproof+CI%2FCD+Pipelines;☁️+Architecting+Scalable+Cloud+Solutions;🛡️+Security-First+DevOps+Practices;🎯+Zero-Downtime+Deployment+Expert" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=700&lines=🔥+Transforming+Infrastructure+Dreams+into+Reality;⚡+Building+Bulletproof+CI%2FCD+Pipelines;☁️+Architecting+Scalable+Cloud+Solutions;🛡️+Security-First+DevOps+Practices;🎯+Zero-Downtime+Deployment+Expert" alt="DevOps Expertise Typing" />
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900"/>
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900" alt="DevOps Animation" />
 
 </div>
 
@@ -18,19 +19,33 @@
 ## 🧠 Solution Architecture Overview
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/Emran-em/Emran-em/main/assets/architecture-k8s-aws.svg" width="900" alt="Kubernetes AWS Architecture Overview" />
+</div>
 
-<img src="https://raw.githubusercontent.com/Emran-em/Emran-em/main/assets/architecture-k8s-aws.svg" width="900"/>
+<br/>
+
+## 🧠 System Architecture — EKS + Jenkins + ArgoCD
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Emran-em/Emran-em/main/assets/architecture-eks-cicd.svg" width="900" alt="EKS CI/CD Architecture" />
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MD-Waseem&show_icons=true&hide_border=true&rank_icon=percentile&theme=transparent" height="160" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MD-Waseem&hide_border=true&theme=transparent" height="160" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-Waseem&layout=compact&hide_border=true&theme=transparent" height="160" alt="Top Languages" />
 
 </div>
 
 ---
 
-## 🧠 System Architecture — EKS + Jenkins + ArgoCD
-
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Emran-em/Emran-em/main/assets/architecture-eks-cicd.svg" width="900"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=MD+WASEEM;Senior+DevOps+Engineer;Cloud+%26+Platform+Architect;Infrastructure+Automation+Specialist;Kubernetes+%7C+Terraform+%7C+DevSecOps" alt="MD Waseem Core Skills" />
 </div>
 
 ---
@@ -39,7 +54,7 @@
 
 <p align="center">
   <marquee behavior="scroll" direction="left" scrollamount="6">
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,jenkins,argo,docker,kubernetes,helm,ansible,linux,git,github,gitlab,jira,vscode,prometheus,grafana,nginx,maven,python,bash,sonarqube,nexus,cloudflare" height="55" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,jenkins,argo,docker,kubernetes,helm,ansible,linux,git,github,gitlab,jira,vscode,prometheus,grafana,nginx,maven,python,bash,sonarqube,nexus,cloudflare" height="55" alt="Technology Icons Marquee" />
   </marquee>
 </p>
 
@@ -47,7 +62,7 @@
 
 ## 🌟 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 I'm **MD Waseem**, a **Senior DevOps & Cloud Engineer** based in **Hyderabad, India**, with **5+ years of hands-on experience** designing and running modern cloud-native platforms.
 
@@ -55,7 +70,7 @@ I architect **production-grade Kubernetes environments**, build **battle-tested 
 
 I thrive on **automation, reliability, cost efficiency, and secure-by-default engineering** — turning chaotic deployments into clean, repeatable, self-healing systems that scale seamlessly.
 
-When I'm not improving pipelines or clusters, I'm exploring new DevOps patterns, refining IaC stacks, or experimenting with monitoring frameworks to find earlier signals from noisy systems.
+When I’m not improving pipelines or clusters, I’m exploring new DevOps patterns, refining IaC stacks, or experimenting with monitoring frameworks to find earlier signals from noisy systems.
 
 <br clear="right"/>
 
@@ -65,106 +80,39 @@ When I'm not improving pipelines or clusters, I'm exploring new DevOps patterns,
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="100%">
+| 🚀 **Enterprise CI/CD Modernization** |
+| :----------------------------------- |
+| **Goal:** Modernize legacy deployments and reduce release failures. |
+| **Stack:** Jenkins, Docker, Kubernetes, Maven, Nexus, SonarQube |
+| **Outcome:** Deployment time reduced from **45 min → 4 min**, automated quality gates, rollback-ready releases. |
+| **Impact:** Improved deployment success rate to **95%+** and eliminated manual post-deployment steps. |
 
-### 🚀 **Enterprise CI/CD Modernization**
+</div>
 
-</td>
-</tr>
-<tr>
-<td>
+<br/>
 
-**Goal:** Modernize legacy deployments and reduce release failures
+<div align="center">
 
-**Stack:** Jenkins, Docker, Kubernetes, Maven, Nexus, SonarQube
+| ☁️ **AWS + Terraform + EKS Production Platform** |
+| :--------------------------------------------- |
+| **Goal:** Build scalable & cost-efficient infrastructure for a high-traffic application. |
+| **Stack:** AWS (EKS, ALB, RDS, EC2, VPC), Terraform, IAM, Autoscaling |
+| **Outcome:** Ability to handle **5× traffic spikes**, full HA setup across multi-AZ. |
+| **Impact:** Achieved **40% cost optimization** & **zero-downtime** release cycles. |
 
-**Outcome:** Deployment time reduced from **45 min → 4 min**, automated quality gates, rollback-ready releases
+</div>
 
-**Impact:** Improved deployment success rate to **95%+** and eliminated manual post-deployment steps
+<br/>
 
-</td>
-</tr>
-</table>
+<div align="center">
+
+| 📊 **Observability & Reliability Platform** |
+| :---------------------------------------- |
+| **Goal:** Reduce incident resolution time and increase monitoring depth. |
+| **Stack:** Prometheus, Grafana, Alertmanager, CloudWatch, Loki |
+| **Outcome:** Designed actionable dashboards & proactive alerts. |
+| **Impact:** **60% MTTR reduction**, improved detection before users were affected. |
 
 </div>
 
 ---
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="100%">
-
-### ☁️ **AWS + Terraform + EKS Production Platform**
-
-</td>
-</tr>
-<tr>
-<td>
-
-**Goal:** Build scalable & cost-efficient infrastructure for a high-traffic application
-
-**Stack:** AWS (EKS, ALB, RDS, EC2, VPC), Terraform, IAM, Autoscaling
-
-**Outcome:** Ability to handle **5× traffic spikes**, full HA setup across multi-AZ
-
-**Impact:** Achieved **40% cost optimization** & **zero-downtime** release cycles
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="100%">
-
-### 📊 **Observability & Reliability Platform**
-
-</td>
-</tr>
-<tr>
-<td>
-
-**Goal:** Reduce incident resolution time and increase monitoring depth
-
-**Stack:** Prometheus, Grafana, Alertmanager, CloudWatch, Loki
-
-**Outcome:** Designed actionable dashboards & proactive alerts
-
-**Impact:** **60% MTTR reduction**, improved detection before users were affected
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MD-Waseem&show_icons=true&hide_border=true&rank_icon=percentile&theme=transparent" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MD-Waseem&hide_border=true&theme=transparent" height="160"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-Waseem&layout=compact&hide_border=true&theme=transparent" height="160"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=MD+WASEEM;Senior+DevOps+Engineer;Cloud+%26+Platform+Architect;Infrastructure+Automation+Specialist;Kubernetes+%7C+Terraform+%7C+DevSecOps" />
-
-</div>
