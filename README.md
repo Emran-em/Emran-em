@@ -8,6 +8,24 @@
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 
 </div>
+---
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/MD-Waseem">
+  <img src="https://github-readme-stats.vercel.app/api?username=MD-Waseem&show_icons=true&hide_border=true&rank_icon=percentile&theme=transparent" height="160"/>
+</a>
+
+<a href="https://github.com/MD-Waseem">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MD-Waseem&hide_border=true&theme=transparent" height="160"/>
+</a>
+
+<a href="https://github.com/MD-Waseem">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-Waseem&layout=compact&hide_border=true&theme=transparent" height="160"/>
+</a>
+
+</div>
 
 ---
 <div align="center">
@@ -15,7 +33,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=MD+WASEEM;Senior+DevOps+Engineer;Cloud+%26+Platform+Architect;Infrastructure+Automation+Specialist;Kubernetes+%7C+Terraform+%7C+DevSecOps" />
 
 </div>
+
 ---
+
 ## 🔧 Technology Wheel — Always in Motion
 
 <p align="center">
@@ -24,7 +44,7 @@
 </marquee>
 </p>
 
-
+---
 
 ## 🌟 About Me
 
