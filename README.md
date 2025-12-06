@@ -134,7 +134,6 @@ If you prefer automation, add a source MP4 to `assets/source/` and run the provi
 ## 🔹 Contact & Availability
 
 - Email: mdwaseem.cloudops@gmail.com  
-- Phone: +91-9652421900  
 - Location: Hyderabad, India
 
 ---
