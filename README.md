@@ -27,49 +27,36 @@ When I’m not improving pipelines or clusters, I’m exploring new DevOps patte
 
 ---
 
-## 🎯 Mission & Philosophy
+## 📦 Mission & Impact Snapshot
 
-```typescript
-const myMission = {
-  identity: "DevOps engineer obsessed with reliability & automation",
-  passion: "Turning chaos into orchestrated harmony",
-  focus: ["Automation", "Scalability", "Security", "Observability"],
-  achievements: [
-    "Deployment time: hours ➜ minutes",
-    "100+ microservices orchestrated in production",
-    "40% infrastructure cost optimization",
-    "60% MTTR reduction with proactive monitoring"
-  ],
-  belief: "If it's not automated, it's technical debt",
-  motto: "Automate Everything. Monitor Everything. Secure Everything."
-};
-🛠 Tech Stack — Full Arsenal
-<div align="center">
-Cloud & Infra	DevOps & CI/CD	Containers & K8s	Monitoring & Logs	Security & Quality	Languages & OS
-AWS	Jenkins, ArgoCD	Docker, Kubernetes, Helm	Prometheus, Grafana, CloudWatch	Vault, SonarQube, Trivy	Python, Bash, Linux, Ubuntu
-Terraform	GitHub Actions	NGINX, Ingress	AlertManager	SAST / DAST	
-VPC, Subnets, Load Balancing	Git, GitHub, GitLab, Jira	HPA, Service Mesh	Distributed Tracing	IAM & Policies	
-</div>
-🏆 Proven Impact — Real World Results
-<div align="center">
-🚀 CI/CD Performance	☁️ Cloud Efficiency	🐳 Kubernetes Scale	📊 Reliability	⚙️ Automation
-95%+ deployment success rate	40% infrastructure cost optimization	100+ microservices in production	60% MTTR reduction	80% manual ops eliminated
-Hours → minutes deploy time	Scalable HA architectures	Zero-downtime rollouts	Predictive alerting	Complete IaC provisioning
-</div>
-💼 Core Strengths
 <div align="center">
 
-Platform Engineering • Cloud Architecture • CI/CD & GitOps
-Infrastructure as Code • Observability & SRE • DevSecOps
-Performance Optimization • Scalable Deployment Strategies
+| **Identity** | **Passion** | **Belief** | **Motto** |
+|--------------|-------------|------------|------------|
+| DevOps engineer focused on reliability & automation | Turning chaos into orchestrated harmony | If it's not automated, it's technical debt | Automate Everything. Monitor Everything. Secure Everything. |
 
 </div>
-💭 Engineering Philosophy
-<div align="center" style="font-size: 18px; font-weight: 600;"> “In DevOps, we don’t just deploy code — we build confidence in every release.” </div> <div align="center"> Automate the repetitive • Monitor the critical • Secure everything • Improve continuously </div>
-🤝 Let’s Connect & Collaborate
+
+---
+
+### 🎯 Focus Areas
+
 <div align="center">
 
+| **Automation** | **Scalability** | **Security** | **Observability** |
+|----------------|----------------|--------------|--------------------|
+| Pipelines, IaC & workflow simplification | Infrastructure that grows without pain | Secure-first pipelines & policy enforcement | Metrics, tracing & full-stack visibility |
 
+</div>
 
+---
+
+### 🏆 Achievement Cards
+
+<div align="center">
+
+| **⏱ Deployment Speed** | **📦 Kubernetes Scale** | **💰 Cost Optimization** | **🩺 Reliability & MTTR** |
+|------------------------|-------------------------|--------------------------|---------------------------|
+| Hours → minutes | 100+ microservices in production | 40% cost reduction | 60% MTTR improvement |
 
 </div>
