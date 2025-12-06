@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🚀 Hey there! I'm MD Waseem 
-### *DevOps & Cloud Engineer* ⚡
+### *DevOps Wizard & Cloud Architect* ⚡
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=🔥+Transforming+Infrastructure+Dreams+into+Reality;⚡+Building+Bulletproof+CI%2FCD+Pipelines;☁️+Architecting+Scalable+Cloud+Solutions;🛡️+Security-First+DevOps+Practices;🎯+Zero-Downtime+Deployment+Expert" />
 
@@ -18,7 +18,8 @@
 ```yaml
 name: "MD Waseem"
 location: "Hyderabad, India 🇮🇳"
-role: "DevOps & Cloud Engineer" # Updated based on resume
-experience: "4 years" # Updated based on resume
+role: "DevOps & Cloud Engineer"
+experience: "4 years" # Updated to reflect resume
+education: "Bachelor's Degree in Electronics & Communication Engineering" # Updated as requested
 motto: "Automate Everything, Monitor Everything, Secure Everything"
 status: "Always Learning & Building 🔄"
