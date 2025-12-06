@@ -15,7 +15,7 @@
 
 <img align="right" alt="Coding" width="420" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-Hi! I'm **MD Waseem**, a passionate **DevOps & Cloud Engineer** from **🇮🇳 Hyderabad, India** with **5+ years** of experience building, automating, and scaling cloud-native infrastructure.
+Hi! I'm **MD Waseem**, a passionate **DevOps & Cloud Engineer** from **🇮🇳 Hyderabad, India** with **5 years** of experience building, automating, and scaling cloud-native infrastructure.
 
 I specialize in designing **high-availability architectures, CI/CD systems, and Kubernetes-driven microservices** with zero downtime and maximum reliability.
 
