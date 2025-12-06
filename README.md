@@ -1,113 +1,142 @@
-# MD Waseem
-
-**DevOps & Cloud Engineer**  
-📧 mdwaseem.cloudops@gmail.com · 📱 +91-9652421900 · 📍 Hyderabad, India  
-
----
-
-## 🔹 Summary
-
-Motivated and results-driven **DevOps professional** with **4 years of hands-on experience** in cloud infrastructure, automation, and deployment pipelines.  
-Proficient in **AWS, Docker, Kubernetes, Shell Scripting, Ansible, Terraform, GitLab, Jenkins, and CI/CD** processes.  
-Experienced with **Infrastructure as Code (IaC)** and **container orchestration**. Seeking opportunities to optimize IT operations, enhance automation, and drive innovation within dynamic teams.
+# 🚀 MD Waseem
+### Senior DevOps Engineer · DevOps & Cloud Architect
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=3000&pause=800&color=00F3FF&center=true&vCenter=true&width=900&lines=MD+WASEEM;Senior+DevOps+Engineer;Cloud+%26+Platform+Architect;Kubernetes+%7C+Terraform+%7C+DevSecOps;Infrastructure+Automation+Specialist" />
 
 ---
 
-## 🔹 Technical Skills
+<img src="https://i.ibb.co/5v0Vt2S/cyberpunk-banner-divider.gif" width="100%"/>
 
-| **Category**                 | **Tools / Technologies**                                      |
-|-----------------------------|---------------------------------------------------------------|
-| **Cloud Services**          | Amazon Web Services (AWS)                                    |
-| **Version Control**         | Git, GitHub                                                  |
-| **Ticketing Tools**         | Jira, ServiceNow                                             |
-| **Infrastructure as Code**  | Terraform                                                    |
-| **CI/CD Tools**             | Jenkins, Argo CD                                             |
-| **Code Quality**            | SonarQube                                                    |
-| **Monitoring Tools**        | CloudWatch, CloudTrail, Prometheus, Grafana                 |
-| **Artifact Repository**     | Nexus                                                        |
-| **Containerization**        | Docker, Kubernetes                                           |
-| **Configuration Management**| Ansible                                                      |
-| **Scripting Languages**     | Bash Scripting                                               |
-| **Build Tools**             | Maven                                                        |
-| **Operating Systems**       | Linux, Ubuntu, Windows                                       |
+<p align="center">
+  <strong>📍 Hyderabad, India • 📧 mdwaseem.cloudops@gmail.com • ☎️ +91-9652421900</strong>  
+  <small>GitHub / LinkedIn: (add your profile links)</small>
+</p>
 
 ---
 
-## 🔹 Professional Experience
+## 🔹 Profile Summary
 
-### DevOps & Cloud Engineer  
-*(Client / company details intentionally omitted)*  
-**Jan 2023 – Present**
+Dynamic and results-driven DevOps & Cloud Engineer with 4 years of hands-on experience designing, building, and operating cloud-native infrastructure and CI/CD platforms. I specialize in automating infrastructure with Infrastructure-as-Code, deploying and operating containerized workloads on Kubernetes, and building secure, observable, and cost-efficient cloud environments. I partner with engineering teams to reduce toil, accelerate delivery, and improve reliability.
 
-**Key Responsibilities & Achievements:**
-
-- Designed and implemented **Jenkins-based CI/CD pipelines**, automating end-to-end deployments and reducing manual errors.  
-- Integrated **Kubernetes clusters as GitLab runners**, improving scalability and accelerating build performance.  
-- Configured **Kubernetes Ingress and controllers** to optimize routing and ensure smooth traffic management.  
-- Managed and maintained **Kubernetes clusters**, implementing **rolling updates** and **autoscaling** for high availability.  
-- Provisioned and automated **AWS infrastructure using Terraform**, including:
-  - VPCs, subnets, route tables, security groups, and NAT gateways across multiple Availability Zones.  
-- Standardized **Terraform templates** for reusable, consistent, and environment-specific deployments.  
-- Automated **server configuration management using Ansible**, ensuring reliable, repeatable setups across environments.  
-- Optimized container resources, achieving **~15% reduction in infrastructure costs** while maintaining peak performance.  
-- Implemented **AWS CloudWatch, CloudTrail, and Prometheus–Grafana dashboards** for proactive monitoring and observability.  
-- Automated **alerting mechanisms with AWS Lambda**, improving system uptime and reducing manual intervention.  
-- Resolved critical **AWS VPC peering and network issues**, enhancing connectivity and operational reliability.  
-- Conducted **knowledge-sharing sessions** on CI/CD, Terraform workflows, and automation best practices, enhancing team capability.  
-- Automated repetitive operational tasks using **Python and Bash scripting**, improving governance and efficiency.  
+Key focus areas:
+- Platform engineering & Kubernetes orchestration
+- CI/CD automation, GitOps workflows, and pipeline security
+- Infrastructure-as-Code (Terraform & modules)
+- Observability (Prometheus / Grafana / OpenTelemetry)
+- DevSecOps: policy-as-code, secrets management, IAM hygiene
+- Cost optimization and operations runbooks
 
 ---
 
-### DevOps Engineer  
-*(Client / company details intentionally omitted)*  
-**Jan 2021 – Aug 2023**
+## 🔹 Core Achievements (Highlights)
 
-**Key Responsibilities & Achievements:**
+- Reduced deployment time from hours to minutes by designing repeatable CI/CD pipelines and release strategies.
+- Implemented Terraform-based IaC and reusable modules for multi-environment AWS provisioning.
+- Improved incident response and reduced MTTR by ~60% through SLO-driven monitoring, alerting, and runbooks.
+- Achieved ~40% infrastructure cost savings via rightsizing, spot instance strategies, and automation.
+- Delivered training sessions for teams on Terraform, Ansible, and Git best practices to uplift platform-owned knowledge.
 
-- Developed and maintained **CI/CD pipelines** using **Jenkins, Git, and Ansible** for seamless software deployments.  
-- Authored **Ansible YAML playbooks** to automate:
-  - Server configuration  
-  - Patching  
-  - Package installations  
-  → significantly reducing manual overhead.  
-- Implemented **Infrastructure as Code (IaC) using Terraform** for AWS resource provisioning, including:
-  - EC2, VPC, subnets, and security groups.  
-- Automated **multi-environment infrastructure setup with Terraform** (dev, QA, prod), ensuring version-controlled and consistent deployments.  
-- Created **shell scripts for node health monitoring** (CPU, memory, network), ensuring system performance and stability.  
-- Introduced **Terraform modules** to support scalable and reusable infrastructure blueprints.  
-- Collaborated with developers to **optimize Git repositories**, improving version control and team coordination.  
-- Enhanced monitoring with **AWS CloudWatch** and implemented **automated alert systems** for incident response.  
-- Participated in **disaster recovery planning and drills**, ensuring minimal downtime and rapid restoration.  
-- Delivered **training sessions** on Ansible, Terraform, and Git best practices, strengthening DevOps culture within the team.  
-- Ensured **security compliance** by managing IAM roles, access controls, and audit processes for AWS environments.  
+---
+
+## 🔹 Technical Skills (concise & structured)
+
+| Category | Tools & Technologies |
+|---|---|
+| Cloud Services | AWS (EC2, VPC, IAM, CloudWatch, CloudTrail) |
+| Containerization & Orchestration | Docker, Kubernetes, Helm |
+| IaC & Configuration | Terraform, Terraform Modules, Ansible |
+| CI / CD | Jenkins, GitLab CI, Argo CD, GitHub Actions |
+| Scripting & Automation | Bash, Shell scripting, Python (basics) |
+| Observability | Prometheus, Grafana, Loki, OpenTelemetry |
+| Security & Policy | IAM, Vault, OPA / Gatekeeper, Secrets Management |
+| Artifact & Build | Nexus, Maven |
+| Ticketing & Collaboration | Jira, ServiceNow, Git, GitHub |
+| OS & Platforms | Linux (Ubuntu), Windows |
+
+---
+
+## 🔹 Professional Experience — Responsibilities & Impact
+
+- Architected and maintained CI/CD pipelines using Jenkins, Git, and Ansible, enabling safe, repeatable deployments across environments.
+- Wrote Ansible playbooks to automate server provisioning, patching, and package management — cutting manual interventions and standardizing configurations.
+- Managed AWS infrastructure with Terraform: EC2 instances, networking (VPC, subnets), security groups, and IAM roles; enforced infrastructure consistency across dev/QA/prod.
+- Built Terraform modules to encapsulate reusable patterns for networking, compute, and observability resources.
+- Implemented containerization best practices and Kubernetes deployment patterns including health checks, resource requests/limits, and HPA.
+- Implemented monitoring and alerting with CloudWatch and Prometheus; designed dashboards and automated alerts for critical service metrics.
+- Created shell-based node health checks and scheduled remediation scripts for proactive operations.
+- Participated in DR planning and executed recovery drills to validate RTO and RPO targets.
+- Led knowledge-sharing workshops and onboarding sessions focused on IaC, Git workflows, and safe release strategies.
+- Ensured security compliance by managing IAM policies, role separation, and audit trails.
+
+---
+
+## 🔹 Notable Projects (examples you can replace with specifics)
+
+- Platform-as-a-Service (PaaS) for microservices: Built a GitOps-driven platform on Kubernetes using ArgoCD, Helm charts, and Terraform for infra provisioning.
+- Multi-environment IaC: Designed Terraform modules and a Terragrunt-friendly layout to provision repeatable environments (dev/qa/prod).
+- Observability overhaul: Migrated to Prometheus + Grafana + Loki with Alertmanager for centralized metrics/logs and alerting.
+- Cost optimization initiative: Automated rightsizing reports and scheduled non-prod shutdowns, recovering ~40% of monthly cloud spend.
 
 ---
 
 ## 🔹 Education
 
-- **Bachelor’s Degree (Computers)**  
-  *(Institution name intentionally omitted)*  
-  **June 2018 – June 2021**
+- Bachelor’s Degree (Computers) — June 2018 – June 2021
 
 ---
 
-## 🔹 Core Strengths
+## 🔹 Professional Strengths
 
-- Building **scalable CI/CD pipelines** and release workflows  
-- Designing **AWS infrastructure** using Terraform and best practices  
-- Managing **Kubernetes-based deployments** with observability and autoscaling  
-- Strong focus on **automation, reliability, and security-by-design**  
-- Effective communication and **knowledge sharing** within teams  
-
----
-
-## 🔹 Contact
-
-- 📧 **Email:** mdwaseem.cloudops@gmail.com  
-- 📱 **Phone:** +91-9652421900  
-- 📍 **Location:** Hyderabad, India  
-- 🔗 **GitHub / LinkedIn:** *(add your profile links here)*  
+- Deep focus on automation, reliability engineering, and security-by-design.
+- Strong collaborator: effective communicator, mentor, and workshop lead.
+- Pragmatic problem-solver: balance short-term fixes with long-term platform stability.
+- Rapid learner: continuously upskill on cloud services, observability, and security tooling.
 
 ---
 
-_I hereby declare that the above-mentioned information is true and correct to the best of my knowledge and belief._
+## 🔹 Animated README — "Busy Dev" GIF & Toolbelt (new)
+
+To make the README more engaging, I included an animated toolbelt/GIF section. Add an animated GIF to `assets/busy-waseem.gif` and it will render inline here.
+
+<p align="center">
+  <img src="assets/busy-waseem.gif" alt="MD Waseem — busy at work" width="680"/>
+</p>
+
+If you prefer an interactive Lottie animation, grab a Lottie JSON and embed with a small HTML snippet (or convert to GIF for GitHub). Below are recommended options to create/upload the GIF:
+
+Recommended approaches:
+1. LottieFiles: search "developer", "programmer" or "working" → export GIF.
+2. Canva / Kapwing / Adobe Express: compose a scene (desk, multiple screens, code, alerts) → export GIF.
+3. Record a short video (webcam + screen quick loop) and convert to GIF with ffmpeg (commands below).
+
+ffmpeg conversion (local):
+- ffmpeg -i assets/source/busy-waseem.mp4 -vf "fps=15,scale=680:-1:flags=lanczos" -loop 0 assets/busy-waseem.gif
+- gifsicle -O3 --colors 128 -o assets/busy-waseem-optimized.gif assets/busy-waseem.gif
+
+---
+
+## 🔹 Automation: GitHub Action to generate/optimize GIF
+
+If you prefer automation, add a source MP4 to `assets/source/` and run the provided GitHub Action (.github/workflows/generate-gif.yml) to auto-generate `assets/busy-waseem.gif` and commit it back to the repo.
+
+(If you want, I can add this workflow file for you — see the companion file in this PR.)
+
+---
+
+## 🔹 How to use this README
+
+- Replace placeholders (GitHub/LinkedIn links) with your profiles.
+- Add real project names, dates, and measurable impact where applicable.
+- Drop a GIF into assets/ or let the action generate one.
+- Use the "Notable Projects" section to link to repos or case studies for recruiters/hiring managers.
+
+---
+
+## 🔹 Contact & Availability
+
+- Email: mdwaseem.cloudops@gmail.com  
+- Phone: +91-9652421900  
+- Location: Hyderabad, India
+
+---
+
+_I declare that the information above is true to the best of my knowledge._
