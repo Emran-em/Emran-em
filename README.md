@@ -15,6 +15,15 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=MD+WASEEM;Senior+DevOps+Engineer;Cloud+%26+Platform+Architect;Infrastructure+Automation+Specialist;Kubernetes+%7C+Terraform+%7C+DevSecOps" />
 
 </div>
+---
+## 🔧 Technology Wheel — Always in Motion
+
+<p align="center">
+<marquee behavior="scroll" direction="left" scrollamount="6">
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,jenkins,argo,docker,kubernetes,helm,ansible,linux,git,github,gitlab,jira,vscode,prometheus,grafana,nginx,maven,python,bash,sonarqube,nexus,cloudflare" height="55" />
+</marquee>
+</p>
+
 
 
 ## 🌟 About Me
