@@ -27,36 +27,42 @@ When I’m not improving pipelines or clusters, I’m exploring new DevOps patte
 
 ---
 
-## 📦 Mission & Impact Snapshot
+## 📁 Featured DevOps Case Studies
 
 <div align="center">
 
-| **Identity** | **Passion** | **Belief** | **Motto** |
-|--------------|-------------|------------|------------|
-| DevOps engineer focused on reliability & automation | Turning chaos into orchestrated harmony | If it's not automated, it's technical debt | Automate Everything. Monitor Everything. Secure Everything. |
+| 🚀 **Enterprise CI/CD Modernization** |
+|---------------------------------------|
+| **Goal:** Modernize legacy deployments and reduce release failures |
+| **Stack:** Jenkins, Docker, Kubernetes, Maven, Nexus, SonarQube |
+| **Outcome:** Deployment time reduced from **45 min → 4 min**, automated quality gates, rollback-ready releases |
+| **Impact:** Improved deployment success rate to **95%+** and eliminated manual post-deployment steps |
 
 </div>
 
 ---
 
-### 🎯 Focus Areas
-
 <div align="center">
 
-| **Automation** | **Scalability** | **Security** | **Observability** |
-|----------------|----------------|--------------|--------------------|
-| Pipelines, IaC & workflow simplification | Infrastructure that grows without pain | Secure-first pipelines & policy enforcement | Metrics, tracing & full-stack visibility |
+| ☁️ **AWS + Terraform + EKS Production Platform** |
+|--------------------------------------------------|
+| **Goal:** Build scalable & cost-efficient infrastructure for a high-traffic application |
+| **Stack:** AWS (EKS, ALB, RDS, EC2, VPC), Terraform, IAM, Autoscaling |
+| **Outcome:** Ability to handle **5× traffic spikes**, full HA setup across multi-AZ |
+| **Impact:** Achieved **40% cost optimization** & **zero-downtime** release cycles |
 
 </div>
 
 ---
 
-### 🏆 Achievement Cards
-
 <div align="center">
 
-| **⏱ Deployment Speed** | **📦 Kubernetes Scale** | **💰 Cost Optimization** | **🩺 Reliability & MTTR** |
-|------------------------|-------------------------|--------------------------|---------------------------|
-| Hours → minutes | 100+ microservices in production | 40% cost reduction | 60% MTTR improvement |
+| 📊 **Observability & Reliability Platform** |
+|---------------------------------------------|
+| **Goal:** Reduce incident resolution time and increase monitoring depth |
+| **Stack:** Prometheus, Grafana, Alertmanager, CloudWatch, Loki |
+| **Outcome:** Designed actionable dashboards & proactive alerts |
+| **Impact:** **60% MTTR reduction**, improved detection before users were affected |
 
 </div>
+
