@@ -10,6 +10,12 @@
 </div>
 
 ---
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=MD+WASEEM;Senior+DevOps+Engineer;Cloud+%26+Platform+Architect;Infrastructure+Automation+Specialist;Kubernetes+%7C+Terraform+%7C+DevSecOps" />
+
+</div>
+
 
 ## 🌟 About Me
 
