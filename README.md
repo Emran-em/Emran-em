@@ -20,5 +20,12 @@ name: "MD Waseem"
 location: "Hyderabad, India 🇮🇳"
 role: "DevOps & Cloud Engineer"
 experience: "5+ years"
+education: "Bachelor's Degree in Electronics & Communication Engineering"
 motto: "Automate Everything, Monitor Everything, Secure Everything"
 status: "Always Learning & Building 🔄"
+specialization:
+  - CI/CD Pipeline Architecture
+  - Cloud Infrastructure Automation
+  - Kubernetes Orchestration
+  - Infrastructure as Code
+  - Observability & Monitoring
