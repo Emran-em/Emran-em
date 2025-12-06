@@ -1,0 +1,34 @@
+<svg width="1100" height="650" xmlns="http://www.w3.org/2000/svg">
+
+<rect width="100%" height="100%" fill="#0d1117"/>
+<text x="50%" y="40" fill="#00eaff" font-size="28" text-anchor="middle" font-family="Verdana">
+Production-Grade Kubernetes on AWS — Blueprint
+</text>
+
+<!-- AWS Cloud Box -->
+<rect x="50" y="80" width="1000" height="550" rx="12" fill="#1a1f24" stroke="#00eaff" stroke-width="2"/>
+<text x="550" y="110" fill="#00eaff" font-size="20" text-anchor="middle" font-family="Verdana">AWS Cloud</text>
+
+<!-- ALB -->
+<rect x="460" y="140" width="200" height="60" rx="10" fill="#22272e" stroke="#0aff9d"/>
+<text x="560" y="175" fill="#0aff9d" font-size="16" text-anchor="middle" font-family="Verdana">ALB</text>
+
+<!-- Cluster -->
+<rect x="180" y="240" width="740" height="260" rx="12" fill="#22272e" stroke="#00eaff"/>
+<text x="550" y="270" fill="#00eaff" font-size="18" text-anchor="middle" font-family="Verdana">EKS Cluster</text>
+
+<!-- Pods -->
+<circle cx="300" cy="350" r="35" fill="#0aff9d"/>
+<circle cx="450" cy="350" r="35" fill="#0aff9d"/>
+<circle cx="600" cy="350" r="35" fill="#0aff9d"/>
+<circle cx="750" cy="350" r="35" fill="#0aff9d"/>
+
+<text x="530" y="500" fill="#00eaff" font-size="16" text-anchor="middle" font-family="monospace">
+Auto-Scaling, Rolling Updates & Zero-Downtime Deployments
+</text>
+
+<!-- DB -->
+<rect x="475" y="540" width="150" height="60" rx="10" fill="#22272e" stroke="#ff66c4"/>
+<text x="550" y="575" fill="#ff66c4" font-size="16" text-anchor="middle">RDS / DynamoDB</text>
+
+</svg>
