@@ -2,16 +2,20 @@
 
 <h3 align="center">Empowering Cloud, DevOps, Kubernetes 🚀</h3>
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=%22%3Cspan+style%3D'color%3Ared'%3EMD%3C%2Fspan%3E+%3Cspan+style%3D'color%3Ablue'%3EWASEEM%3C%2Fspan%3E%22+—+%3Cspan+style%3D'color%3Agreen'%3ESenior+DevOps+Engineer%3C%2Fspan%3E" alt="Typing SVG" />
+</p>
+
 ---
 
 ### 👨‍💻 About Me
 **MD Waseem — DevOps & Cloud Engineer from 🇮🇳 India**
 
-- 🔧 5 years experience in DevOps, Cloud, CI/CD & automation
-- ☁️ Expertise in AWS, Docker, Kubernetes, Terraform, Jenkins, Ansible & monitoring tools
-- 📍 Hyderabad, India
-- 📫 Email: **mdwaseem.cloudops@gmail.com**
-- 🔗 LinkedIn: **https://www.linkedin.com/in/md-waseem-0b432238b/**
+- 🔧 5 years experience in DevOps, Cloud, CI/CD & automation  
+- ☁️ Expertise in AWS, Docker, Kubernetes, Terraform, Jenkins, Ansible & monitoring tools  
+- 📍 Hyderabad, India  
+- 📫 Email: **mdwaseem.cloudops@gmail.com**  
+- 🔗 LinkedIn: **https://www.linkedin.com/in/md-waseem-0b432238b/**  
 
 ---
 
@@ -44,13 +48,6 @@
 
 ---
 
-### ⚙ Tech Stack
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,github,gitlab,linux,docker,kubernetes,jenkins,terraform,ansible,python,bash,nginx,mysql,postgres,java,go,redis,azure,gcp,prometheus,grafana,maven,vscode" />
-</p>
-
----
-
 ### 💼 Professional Experience
 #### DevOps Engineer
 - Built CI/CD pipelines using Jenkins, automated deployments & configuration
@@ -62,8 +59,7 @@
 ---
 
 ### 🧾 Education
-**Bachelor of Commerce (Computers)** — Vignan Degree College, Hyderabad  
-*2018 – 2021*
+**Degree Completed**
 
 ---
 
