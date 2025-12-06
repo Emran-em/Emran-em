@@ -1,3 +1,4 @@
+---
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=3000&pause=800&color=00F3FF&center=true&vCenter=true&width=900&lines=MD+WASEEM;Senior+DevOps+Engineer;Cloud+%26+Platform+Architect;Kubernetes+%7C+Terraform+%7C+DevSecOps;Infrastructure+Automation+Specialist" />
@@ -5,7 +6,6 @@
 <img src="https://i.ibb.co/5v0Vt2S/cyberpunk-banner-divider.gif" width="100%"/>
 
 </div>
----
 
 <div align="center">
 
@@ -17,6 +17,13 @@
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 
 </div>
+
+## 🧠 Solution Architecture Overview
+
+<div align="center">
+<img src="https://i.ibb.co/MRbkJd1/Cloud-Architecture-MDWaseem-v1.png" width="900"/>
+</div>
+
 
 ## 📊 GitHub Analytics
 
