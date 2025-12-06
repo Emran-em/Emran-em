@@ -60,6 +60,44 @@ const mission = {
 
 ---
 
+## 🛠️ Animated Toolbelt (NEW)
+To bring this README to life, I've added an animated toolbelt and a "busy developer" GIF placeholder. Add your animated GIF to `assets/busy-waseem.gif` (or leave it to the included GitHub Action to create it from a source MP4) and it'll appear here:
+
+<p align="center">
+  <!-- Replace assets/busy-waseem.gif with your generated GIF path -->
+  <img src="assets/busy-waseem.gif" alt="MD Waseem — busy working animation" width="640"/>
+</p>
+
+If you want a quick live Lottie-style animation instead of a GIF, grab a developer/programmer animation from LottieFiles, export as GIF, and drop it in `assets/`.
+
+---
+
+## 🖼️ How to create the "busy working" GIF (3 easy options)
+
+1) Quick — LottieFiles (recommended for clean looping animations)
+   - Visit https://lottiefiles.com and search "developer", "programmer", or "working".
+   - Export as GIF (LottieFiles offers an export tool) and add the resulting `busy-waseem.gif` to `assets/`.
+
+2) Visual/Designer friendly — Canva / Kapwing / Adobe Express
+   - Create an animated scene of a person at a desk (use templates or animate icons).
+   - Export as GIF and add to `assets/`.
+
+3) Power-user — Record a short screen/camera clip and convert to optimized GIF with ffmpeg
+   - Add a source video at `assets/source/busy-waseem.mp4`.
+   - Run locally:
+     - ffmpeg -i assets/source/busy-waseem.mp4 -vf "fps=15,scale=640:-1:flags=lanczos" -loop 0 assets/busy-waseem.gif
+     - gifsicle -O3 --colors 128 -o assets/busy-waseem-optimized.gif assets/busy-waseem.gif
+   - Or use the GitHub Action included below to automate this for you.
+
+---
+
+## ⚙️ Automation: Create/Optimize GIF automatically (GitHub Action)
+I've included a GitHub Action that, when you add a source MP4 to `assets/source/busy-waseem.mp4` and run the workflow, will convert it to an optimized GIF and commit the result to the repo as `assets/busy-waseem.gif`.
+
+See: .github/workflows/generate-gif.yml
+
+---
+
 ## 🛠️ Toolbelt (sample)
 Kubernetes · Terraform · Terragrunt · Helm · ArgoCD · GitHub Actions · Jenkins · Docker · AWS · Prometheus · Grafana · Loki · OpenTelemetry · Vault · OPA · Cortex · Pulumi
 
