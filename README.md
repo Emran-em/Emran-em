@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=3000&pause=800&color=00F3FF&center=true&vCenter=true&width=900&lines=MD+WASEEM;Senior+DevOps+Engineer;Cloud+%26+Platform+Architect;Kubernetes+%7C+Terraform+%7C+DevSecOps;Infrastructure+Automation+Specialist" />
 
 <img src="https://i.ibb.co/5v0Vt2S/cyberpunk-banner-divider.gif" width="100%"/>
-
+---
 # 🚀 Hey there! I'm **MD Waseem**
 ### *Senior DevOps Engineer & Cloud Architect* ⚡
 
