@@ -62,23 +62,16 @@ I transform complex legacy delivery pipelines into **reliable, automated, high-p
 
 ---
 
-## 📊 GitHub Analytics
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MD-Waseem&show_icons=true&hide_border=true&rank_icon=percentile&theme=transparent" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MD-Waseem&hide_border=true&theme=transparent" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-Waseem&layout=compact&hide_border=true&theme=transparent" height="160"/>
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Emran-em&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Emran-em&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Emran-em&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🌐 Connect with Me
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-waseem-0b432238b/)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdwaseem.cloudops@gmail.com)
-[![](https://visitcount.itsvg.in/api?id=Emran-em&icon=0&color=0)](https://visitcount.itsvg.in)
-
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Emran-em&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
