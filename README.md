@@ -60,31 +60,6 @@ const mission = {
 
 ---
 
-## 🛠️ Animated Toolbelt (NEW)
-To bring this README to life, I've added an animated toolbelt and a "busy developer" GIF placeholder. Add your animated GIF to `assets/busy-waseem.gif` (or leave it to the included GitHub Action to create it from a source MP4) and it'll appear here:
-
-<p align="center">
-  <!-- Replace assets/busy-waseem.gif with your generated GIF path -->
-  <img src="assets/busy-waseem.gif" alt="MD Waseem — busy working animation" width="640"/>
-</p>
-
-If you want a quick live Lottie-style animation instead of a GIF, grab a developer/programmer animation from LottieFiles, export as GIF, and drop it in `assets/`.
-
----
----
-
-## ⚙️ Automation: Create/Optimize GIF automatically (GitHub Action)
-I've included a GitHub Action that, when you add a source MP4 to `assets/source/busy-waseem.mp4` and run the workflow, will convert it to an optimized GIF and commit the result to the repo as `assets/busy-waseem.gif`.
-
-See: .github/workflows/generate-gif.yml
-
----
-
-## 🛠️ Toolbelt (sample)
-Kubernetes · Terraform · Terragrunt · Helm · ArgoCD · GitHub Actions · Jenkins · Docker · AWS · Prometheus · Grafana · Loki · OpenTelemetry · Vault · OPA · Cortex · Pulumi
-
----
-
 ## 📫 Let’s collaborate
 If you want to design a resilient platform, improve CI/CD, or optimize cloud costs — let's chat.  
 (Replace with your preferred contact links: LinkedIn, Email, or GitHub sponsors)
