@@ -13,13 +13,23 @@
 
 ## 🌟 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="420" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-```yaml
-name: "MD Waseem"
-location: "Hyderabad, India 🇮🇳"
-role: "DevOps & Cloud Engineer"
-experience: "4 years" # Updated to reflect resume
-education: "Bachelor's Degree in Electronics & Communication Engineering" # Updated as requested
-motto: "Automate Everything, Monitor Everything, Secure Everything"
-status: "Always Learning & Building 🔄"
+<div align="left">
+
+### 👨‍💻 **Who Am I?**
+
+Hi! I'm **MD Waseem**, a passionate **DevOps & Cloud Engineer** from **🇮🇳 Hyderabad, India** with **5+ years** of hands-on experience in building, automating, and scaling cloud-native infrastructure.
+
+I bridge the gap between **development and operations**, turning complex infrastructure challenges into elegant automated solutions. My journey from **Electronics & Communication Engineering** to DevOps has given me a unique perspective on system design and reliability.
+
+### 🎯 **What Drives Me?**
+
+```typescript
+const myMission = {
+  passion: "Turning chaos into orchestrated harmony",
+  focus: ["Automation", "Scalability", "Security", "Reliability"],
+  philosophy: "Automate Everything, Monitor Everything, Secure Everything",
+  drive: "Building systems that empower teams to ship faster & safer",
+  currentStatus: "Always Learning & Building 🔄"
+};
